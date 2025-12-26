@@ -1,0 +1,6 @@
+@IMemoryCacheCore10_HostAddress = http://localhost:5034
+
+GET {{IMemoryCacheCore10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
